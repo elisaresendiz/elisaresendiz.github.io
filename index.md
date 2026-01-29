@@ -1,10 +1,10 @@
 ---
 title: "Elisa Resendiz"
 ---
-
+<img src="images/egg_figure_final.png" alt="Egg figure">
 <div style="display:flex; gap:24px; align-items:center; margin-top:12px; margin-bottom:24px;">
   <div style="flex:0 0 160px;">
-    <img src="assets/images/headshot.jpg" alt="Elisa Resendiz" style="width:160px; height:160px; object-fit:cover; border-radius:999px;"/>
+    <img src="assets/images/bird_photo_1.jpg" alt="Elisa Resendiz" style="width:160px; height:160px; object-fit:cover; border-radius:999px;"/>
   </div>
   <div style="flex:1;">
     <h1 style="margin:0;">Elisa Resendiz</h1>
