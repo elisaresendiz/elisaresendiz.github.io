@@ -2,7 +2,7 @@
 layout: default
 permalink: /
 ---
-<img src="{{ '/images/volcano_junco.jpg' | relative_url }}" width="220">
+<img src="{{ '/images/volcano_junco.JPG' | relative_url }}" width="220">
 I study how environmental variation shapes ecological patterns and wildlife responses using field data, quantitative modeling, and spatial analysis to support conservation and management. Birds are my primary study system, though my work also extends to invertebrate and plant ecology under a broader ecological framework.
 
 **Interests:** wildlife ecology, movement and habitat use, Bayesian and statistical modeling, GIS
