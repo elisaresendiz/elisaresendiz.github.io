@@ -4,7 +4,7 @@ permalink: /
 ---
 <div style="display:flex; align-items:flex-start; gap:25px;">
 
-<img src="/images/junco.jpg" width="260" alt="Volcano Junco">
+<img src="/images/junco.jpg" width="400" alt="Volcano Junco">
 
 <div>
 
