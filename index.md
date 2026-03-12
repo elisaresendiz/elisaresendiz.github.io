@@ -24,7 +24,7 @@ permalink: /
 
 <div style="display:flex; gap:30px; flex-wrap:wrap; align-items:stretch;">
 
-  <a href="/research/" style="text-decoration:none; color:black; width:320px;">
+  <a href="/projects/migration/" style="text-decoration:none; color:black; width:320px;">
     <div style="position:relative; width:320px; height:220px; overflow:hidden; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.2);">
       <img src="/images/houghton_area_banding_sites_map.png" alt="Stopover Migration in the Great Lakes" style="width:100%; height:100%; object-fit:cover; display:block;">
       <div style="
@@ -44,7 +44,7 @@ permalink: /
     </div>
   </a>
 
-  <a href="/research/" style="text-decoration:none; color:black; width:320px;">
+  <a href="/projects/field-methods/" style="text-decoration:none; color:black; width:320px;">
     <div style="position:relative; width:320px; height:220px; overflow:hidden; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.2);">
       <img src="/images/egg_figure.png" alt="Field Methods" style="width:100%; height:100%; object-fit:cover; display:block;">
       <div style="
