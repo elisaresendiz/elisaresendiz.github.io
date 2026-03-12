@@ -8,19 +8,46 @@ permalink: /projects/field-methods/
 
 <img src="/images/egg_figure.png" alt="Field Methods" style="width:100%; max-width:700px; border-radius:8px; margin-bottom:20px;">
 
-This project highlights applied field methods used in ecological research. It includes practical approaches to data collection, study design, and field-based investigation across ecological systems.
+This project highlights applied field methods used in ecological research, with a focus on practical techniques for studying avian reproduction and behavior in natural systems.
 
 ## Research focus
 
 - Applied ecological field methods
-- Data collection in natural systems
-- Study design and measurement
+- Study design and standardization
 - Practical tools for ecological research
 
-## Methods
+## Publications
 
-This page can describe the field approaches, protocols, equipment, and broader applications of these methods.
+<div style="display:flex; gap:20px; align-items:flex-start; margin-bottom:30px; flex-wrap:wrap;">
 
-## Related work
+  <img src="/images/egg_figure.png" alt="Thumbnail for Superb Fairy-wren egg incubation guide" style="width:220px; border-radius:8px; box-shadow:0 4px 10px rgba(0,0,0,0.15);">
 
-You can later add photos, examples, descriptions of specific techniques, and connections to your teaching or research experience.
+  <div style="flex:1; min-width:260px;">
+
+  ### A photographic guide for determining egg incubation stage in the Superb Fairy-wren (_Malurus cyaneus_)
+
+  Resendiz, E., Ditzel, P. C., Kessler, W. P., Buckley, E. R., Huff, C. E., Poje, C., Lamb, J. B., Kennerley, J. A., Coleman, J. T., Boersma, J., Webster, M. S., & Feeney, W. E. (2025)
+
+  <a href="/papers/resendiz-etal-2025-A-photographic-guide.pdf" target="_blank">📄 Download PDF</a>
+
+  </div>
+
+</div>
+
+<hr>
+
+<div style="display:flex; gap:20px; align-items:flex-start; margin-top:30px; flex-wrap:wrap;">
+
+  <img src="/images/egg_figure.png" alt="Thumbnail for Rufous Whistler communal display paper" style="width:220px; border-radius:8px; box-shadow:0 4px 10px rgba(0,0,0,0.15);">
+
+  <div style="flex:1; min-width:260px;">
+
+  ### Use of a communal display area by Rufous Whistlers (_Pachycephala rufiventris_)
+
+  Kessler, W. P., et al. (2025)
+
+  <a href="/papers/kessler_etal-2025-Use-of-a-communal.pdf" target="_blank">📄 Download PDF</a>
+
+  </div>
+
+</div>
