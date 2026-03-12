@@ -6,9 +6,13 @@ permalink: /contact/
 
 # Contact
 
-**Elisa Resendiz**  
-Michigan Technological University
+You can reach me or follow my work through the platforms below.
 
-Email: elisaxresendiz@gmail.com
+✉️ **Email**  
+eresendi@mtu.edu
 
-GitHub: [elisaresendiz](https://github.com/elisaresendiz)
+💼 **LinkedIn**  
+[linkedin.com/in/elisa-resendiz26](https://linkedin.com/in/elisa-resendiz26)
+
+🦜 **eBird**  
+[ebird.org/profile/MTE5ODIxOA](https://ebird.org/profile/MTE5ODIxOA)
