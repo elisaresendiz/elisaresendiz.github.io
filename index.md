@@ -9,12 +9,12 @@ permalink: /
 
   <div>
     <p>
-      I study how environmental variation shapes ecological patterns and wildlife responses using field data, quantitative modeling, and spatial analysis to support conservation and management. Birds are my primary study system, though my work also extends to invertebrate and plant ecology under a broader ecological framework.
+      I study how environmental variation shapes ecological patterns and wildlife responses using field data, quantitative modeling, and spatial analysis to support conservation and management. Birds are my primary study system, though my work also extends to other taxonomic groups under a broader ecological framework.
     </p>
 
     <p>
       <strong>Interests:</strong><br>
-      wildlife ecology, movement and habitat use, Bayesian and statistical modeling, GIS
+      wildlife ecology, movement and habitat use, Bayesian and statistical modeling, GIS, molt patterns and demography
     </p>
   </div>
 
