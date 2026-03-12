@@ -36,7 +36,7 @@ This project highlights applied field methods used in ecological research, with 
 
 <div style="display:flex; gap:20px; align-items:flex-start; margin-top:30px; flex-wrap:wrap;">
 
-  <img src="/images/egg_figure.png" alt="Thumbnail for Rufous Whistler communal display paper" style="width:220px; border-radius:8px; box-shadow:0 4px 10px rgba(0,0,0,0.15);">
+  <img src="/images/rufous_whistler.JPG" alt="Thumbnail for Rufous Whistler communal display paper" style="width:220px; border-radius:8px; box-shadow:0 4px 10px rgba(0,0,0,0.15);">
 
   <div style="flex:1; min-width:260px;">
 
