@@ -3,10 +3,7 @@ layout: page
 title: Contact
 permalink: /contact/
 ---
-
-# Contact
-
-You can reach me or follow my work through the platforms below.
+You can reach me or follow my work through the platforms below. Please don't hesitate to reach out!
 
 ✉️ **Email**  
 eresendi@mtu.edu
