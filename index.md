@@ -18,12 +18,57 @@ I study how environmental variation shapes ecological patterns and wildlife resp
 
 ## Research Projects
 
-- Avian migration in the Great Lakes region
-- Molt timing and its effects on avian annual cycles
-- Applied field methods
+<div style="display:flex; gap:30px; flex-wrap:wrap;">
 
-## Explore
+<a href="/research/" style="text-decoration:none; color:black; width:260px;">
+<div style="position:relative;">
 
-- [Research]({{ '/research/' | relative_url }})
-- [CV]({{ '/cv/' | relative_url }})
-- [Contact]({{ '/contact/' | relative_url }})
+<img src="/images/houghton_area_banding_sites_map.jpg" style="width:100%; border-radius:6px;">
+
+<div style="
+position:absolute;
+bottom:0;
+left:0;
+right:0;
+background:rgba(0,0,0,0.55);
+color:white;
+padding:10px;
+font-weight:600;
+font-size:18px;
+text-align:center;
+">
+Avian Migration
+</div>
+
+</div>
+</a>
+
+<a href="/research/" style="text-decoration:none; color:black; width:260px;">
+<div style="position:relative;">
+
+<img src="/images/egg_figure.jpg" style="width:100%; border-radius:6px;">
+
+<div style="
+position:absolute;
+bottom:0;
+left:0;
+right:0;
+background:rgba(0,0,0,0.55);
+color:white;
+padding:10px;
+font-weight:600;
+font-size:18px;
+text-align:center;
+">
+Field Methods
+</div>
+
+</div>
+</a>
+
+</div>
+
+</div>
+</a>
+
+</div>
