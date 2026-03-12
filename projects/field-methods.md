@@ -6,8 +6,6 @@ permalink: /projects/field-methods/
 
 # Field Methods
 
-<img src="/images/egg_figure.png" alt="Field Methods" style="width:100%; max-width:700px; border-radius:8px; margin-bottom:20px;">
-
 This project highlights applied field methods used in ecological research, with a focus on practical techniques for studying avian reproduction and behavior in natural systems.
 
 ## Research focus
@@ -24,7 +22,7 @@ This project highlights applied field methods used in ecological research, with 
 
   <div style="flex:1; min-width:260px;">
 
-  ### A photographic guide for determining egg incubation stage in the Superb Fairy-wren (_Malurus cyaneus_)
+  **A photographic guide for determining egg incubation stage in the Superb Fairy-wren (_Malurus cyaneus_)**
 
   Resendiz, E., Ditzel, P. C., Kessler, W. P., Buckley, E. R., Huff, C. E., Poje, C., Lamb, J. B., Kennerley, J. A., Coleman, J. T., Boersma, J., Webster, M. S., & Feeney, W. E. (2025)
 
@@ -42,7 +40,7 @@ This project highlights applied field methods used in ecological research, with 
 
   <div style="flex:1; min-width:260px;">
 
-  ### Use of a communal display area by Rufous Whistlers (_Pachycephala rufiventris_)
+  **Use of a communal display area by Rufous Whistlers (_Pachycephala rufiventris_)**
 
   Kessler, W. P., et al. (2025)
 
