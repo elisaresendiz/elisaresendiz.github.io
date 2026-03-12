@@ -4,7 +4,7 @@ title: Field Methods
 permalink: /projects/field-methods/
 ---
 
-This project highlights applied field methods used in ecological research, with a focus on practical techniques for studying avian reproduction and behavior in natural systems.
+This project highlights applied field methods used in ecological research, with a focus on practical techniques for studying avian ecology and behavior in natural systems.
 
 ## Research focus
 
