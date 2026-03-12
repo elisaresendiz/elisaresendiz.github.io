@@ -23,7 +23,7 @@ I study how environmental variation shapes ecological patterns and wildlife resp
 <a href="/research/" style="text-decoration:none; color:black; width:260px;">
 <div style="position:relative;">
 
-<img src="/images/houghton_area_banding_sites_map.jpg" style="width:100%; border-radius:6px;">
+<img src="/images/houghton_area_banding_sites_map.png" style="width:100%; border-radius:6px;">
 
 <div style="
 position:absolute;
@@ -46,7 +46,7 @@ Avian Migration
 <a href="/research/" style="text-decoration:none; color:black; width:260px;">
 <div style="position:relative;">
 
-<img src="/images/egg_figure.jpg" style="width:100%; border-radius:6px;">
+<img src="/images/egg_figure.png" style="width:100%; border-radius:6px;">
 
 <div style="
 position:absolute;
