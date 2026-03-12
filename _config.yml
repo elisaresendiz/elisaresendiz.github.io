@@ -3,5 +3,4 @@ description: ""
 theme: minima
 
 header_pages:
-  - research.md
   - contact.md
